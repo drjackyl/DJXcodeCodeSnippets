@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>SeeAlso</string>
+	<string>Experiment</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>StringOrComment</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- SeeAlso: &lt;#reference#&gt;</string>
+	<string>- Experiment: &lt;#description#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>0FD60F82-0A61-45C6-B14A-B5A96D16F955</string>
+	<string>9D754BF5-FADB-438F-BD39-D33F57C96071</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Use the callout to add references to other information.</string>
+	<string>Add an Experiment callout to a playground or to the Quick Help.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>DJ - Callout: SeeAlso</string>
+	<string>DJ - Callout: Experiment</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>

@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>Version</string>
+	<string>Throws</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>StringOrComment</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- Version: &lt;#description#&gt;</string>
+	<string>- Throws: &lt;#description#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>36B859E7-38BB-44B5-BD74-8EF0CB8A245B</string>
+	<string>8AF92AA3-A5DB-4283-AAC0-46BF0F4B60B7</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Add a Version callout to the Quick Help for a symbol</string>
+	<string>Add the Throws section to Quick Help for a symbol.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>DJ - Callout: Version</string>
+	<string>DJ - Callout: Throws</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>

@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>Important</string>
+	<string>Since</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>StringOrComment</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- Important: &lt;#text#&gt;</string>
+	<string>- Since: &lt;#description#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>0827CD32-BE56-4379-A915-C37DD9386DF7</string>
+	<string>C8FF8234-3497-4CBF-9EB5-7EB00C70FA93</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Use the callout to highlight information that can have adverse effects on the tasks a user is trying to accomplish.</string>
+	<string>Use the callout to add information about when the symbol became available. Some example of the types of information include dates, framework versions, and operating system versions.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>DJ - Callout: Important (also Playground)</string>
+	<string>DJ - Callout: Since</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>

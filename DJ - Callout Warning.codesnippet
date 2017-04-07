@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>Attention</string>
+	<string>Warning</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>StringOrComment</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- Attention: &lt;#Text#&gt;</string>
+	<string>- Warning: &lt;#text#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>C19F87B0-019E-4781-B9C7-A3577BD966A7</string>
+	<string>5CD55D27-E913-4BAB-A2DD-81DE13E76560</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Use the callout to highlight information for the user of the symbol.</string>
+	<string>Add a Warning callout to the Quick Help for a symbol.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>DJ - Callout: Attention</string>
+	<string>DJ - Callout: Warning</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>

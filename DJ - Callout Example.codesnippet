@@ -3,24 +3,28 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>Copyright</string>
+	<string>Example</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>StringOrComment</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- Copyright: &lt;#text#&gt;</string>
+	<string>- Example: &lt;#text#&gt;
+
+````
+&lt;#code#&gt;
+````</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>03BAD08E-4EB2-4F6D-B0F8-1F241FFA9BCA</string>
+	<string>1C3670B4-9944-468A-BF07-3CAF583B0D4F</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Use the callout to display copyright information for a symbol.</string>
+	<string>Add an Example callout to a playground.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>DJ - Callout: Copyright</string>
+	<string>DJ - Callout: Example (Playground only)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>

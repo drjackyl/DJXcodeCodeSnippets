@@ -3,28 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>Example</string>
+	<string>Parameters</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>StringOrComment</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- Example: &lt;#text#&gt;
-
-````
-&lt;#code#&gt;
-````</string>
+	<string>- Parameters:
+    - &lt;#parameter name#&gt;: &lt;#description#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>1C3670B4-9944-468A-BF07-3CAF583B0D4F</string>
+	<string>76AD492C-FFB1-4074-A612-29395456609F</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Add an Example callout to a playground.</string>
+	<string>Add a list of parameter names and descriptions to the Parameters section of Quick Help.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>DJ - Callout: Example (Playground only)</string>
+	<string>DJ - Callout: Parameters</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>

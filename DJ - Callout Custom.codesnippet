@@ -3,27 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>Authors</string>
+	<string>Callout</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>StringOrComment</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- Authors:
-    &lt;#author name#&gt;
-    
-    &lt;#author name#&gt;</string>
+	<string>- Callout(&lt;#title#&gt;): &lt;#text#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>5723C188-3D8D-47E7-B05F-FAE5FC252F01</string>
+	<string>901F3758-537F-4682-B2FE-13A96C40F67A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Use the callout to display the authors of the code for a symbol.</string>
+	<string>Customize your playground for your audience by adding custom titles for your callouts.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>DJ - Callout: Authors</string>
+	<string>DJ - Callout: Custom (Playground only)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>

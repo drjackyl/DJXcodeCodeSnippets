@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>Experiment</string>
+	<string>Precondition</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>StringOrComment</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- Experiment: &lt;#description#&gt;</string>
+	<string>- Precondition: &lt;#description#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>9D754BF5-FADB-438F-BD39-D33F57C96071</string>
+	<string>69975215-0D45-4A75-9CEB-1B0BF90ED376</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Add an Experiment callout to a playground or to the Quick Help.</string>
+	<string>Use the callout to document any conditions that are held for the documented symbol to work.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>DJ - Callout: Experiment</string>
+	<string>DJ - Callout: Precondition</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>

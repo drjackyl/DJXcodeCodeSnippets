@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>Precondition</string>
+	<string>Author</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>StringOrComment</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- Precondition: &lt;#description#&gt;</string>
+	<string>- Author: &lt;#author name#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>69975215-0D45-4A75-9CEB-1B0BF90ED376</string>
+	<string>ED3124E5-3A31-455A-933F-C720D4FAD9D0</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Use the callout to document any conditions that are held for the documented symbol to work.</string>
+	<string>Use the callout to display the author of the code for a symbol.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>DJ - Callout: Precondition</string>
+	<string>DJ - Callout: Author</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>

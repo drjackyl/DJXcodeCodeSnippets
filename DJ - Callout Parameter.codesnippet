@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>Since</string>
+	<string>Parameter</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>StringOrComment</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- Since: &lt;#description#&gt;</string>
+	<string>- Parameter &lt;#parameter name#&gt;: &lt;#description#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>C8FF8234-3497-4CBF-9EB5-7EB00C70FA93</string>
+	<string>AE71CC8A-924D-4D7D-B15A-87F866D31DAD</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Use the callout to add information about when the symbol became available. Some example of the types of information include dates, framework versions, and operating system versions.</string>
+	<string>Add the name and description for a single parameter to the Parameters section of Quick Help.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>DJ - Callout: Since</string>
+	<string>DJ - Callout: Parameter</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>

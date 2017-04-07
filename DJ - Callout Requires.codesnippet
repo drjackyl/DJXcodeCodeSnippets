@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>Returns</string>
+	<string>Requires</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>StringOrComment</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- Returns: &lt;#description#&gt;</string>
+	<string>- Requires: &lt;#description#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>2295DE9D-E288-4127-A810-7C3ACB961414</string>
+	<string>5D017AC9-7A8B-4F84-8DAF-7B703EEFFBD6</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Add the Returns section to Quick Help.</string>
+	<string>Add a Requires callout to the Quick Help.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>DJ - Callout: Returns</string>
+	<string>DJ - Callout: Requires</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>

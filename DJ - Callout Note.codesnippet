@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>Postcondition</string>
+	<string>Note</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>StringOrComment</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- Postcondition: &lt;#description#&gt;</string>
+	<string>- Note: &lt;#text#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>11B04ACE-13AF-48FA-86AE-2C29B64A6F0C</string>
+	<string>E0B87E01-1893-4221-859E-A7B1155F143C</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Use the callout to document conditions which have guaranteed values upon completion of the execution of the symbol.</string>
+	<string>Add a Note callout to a playground or to the Quick Help</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>DJ - Callout: Postcondition</string>
+	<string>DJ - Callout: Note (also Playground)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>

@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>Parameter</string>
+	<string>Invariant</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>StringOrComment</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- Parameter &lt;#parameter name#&gt;: &lt;#description#&gt;</string>
+	<string>- Invariant: &lt;#description#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>AE71CC8A-924D-4D7D-B15A-87F866D31DAD</string>
+	<string>5ED5274B-BC43-4A76-8FF9-F570837509CE</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Add the name and description for a single parameter to the Parameters section of Quick Help.</string>
+	<string>Use the callout to display a condition that is guaranteed to be true during the execution of the documented symbol.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>DJ - Callout: Parameter</string>
+	<string>DJ - Callout: Invariant</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>

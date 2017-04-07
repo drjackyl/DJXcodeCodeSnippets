@@ -3,24 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>Remark</string>
+	<string>Symbol Documentation</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>StringOrComment</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- Remark: &lt;#text#&gt;</string>
+	<string>/**
+ &lt;#Symbol Documentation#&gt;
+ */</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>D09F1609-E17E-4FE1-8D6E-217E921AD3E7</string>
+	<string>F42B4160-13D8-4487-9DB1-680327077461</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Add a Remark callout to the Quick Help.</string>
+	<string>Adds a comment for the documentation of a symbol</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>DJ - Callout: Remark</string>
+	<string>DJ - Symbol Documentation</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
